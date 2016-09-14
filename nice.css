@@ -1,0 +1,29 @@
+h1{
+  color: blue;
+  background-color: grey;
+  border: 3px dashed red;
+  padding: 15px;
+  margin: 10px;
+  width: 400px;
+}
+
+h2{
+  color: blue;
+  background-color: grey;
+  border: 3px dashed red;
+  padding: 15px;
+  margin: 10px;
+  width: 400px;
+}
+h3 {
+  color: blue;
+  background-color: grey;
+  border: 3px dashed red;
+  padding: 15px;
+  margin: 10px;
+  width: 400px;
+}
+
+p {
+  color: black;
+}
